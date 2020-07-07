@@ -1,0 +1,8 @@
+.vscode
+
+app/app.bundle.js
+node_modules/
+
+*.cert
+*.key
+*.csr
